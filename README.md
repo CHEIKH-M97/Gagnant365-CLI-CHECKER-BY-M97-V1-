@@ -12,5 +12,5 @@ Gagnant365 Checker is a Command Line Interface (CLI) program developed by **CHEI
 
 ## Contact
 For questions or feedback, please reach out to CHEIKH-M97 on GitHub or [yessin.cheikhrouhou05@hotmail.com].
-
+## Tags
 #Python, #Programming, #DataScience, #MachineLearning, #OpenSource
